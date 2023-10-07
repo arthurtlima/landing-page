@@ -1,39 +1,91 @@
-# Simple NextJS Quick Start
+<h1 align="center">
+     <img title="Icone dt money" src="./public/img/logo.svg" width="500" height="100" alt="React avançado">
+</h1>
 
-A simple project starter to work with React, NextJS and Styled Components
+<p align="center">
+  This is one of the applications developed in the <a href="https://reactavancado.com.br/" target="_blank">React Avançado</a> course on <a href="https://www.udemy.com/" target="_blank">Udemy</a> platform.
+</p>
 
-You can see the example in [https://nextjs-quickstart.now.sh/](https://nextjs-quickstart.now.sh/)
+<h4 align="center">
+	🚧 Completed 🚀 🚧
+</h4>
 
-### 📦 Install
+Table of Contents
+=================
+<!--ts-->
+   * [About the project](#-about-the-project)
+   * [How it works](#-how-it-works)
+   * [How to run the project](#-how-to-run-the-project)
+   * [Technologies](#-technologies)
+   * [License](#user-content--licença)
+<!--te-->
 
-```
-$ git clone https://github.com/guilouro/simple-nextjs-quick-start.git
 
+## 💻 About the project
+
+<p>The project is a landing page that presents all information related to the Advanced React course. Technologies such as Next.js, styled-components, and GraphQL were used to build this landing page, fetching data from Strapi.</p>
+
+## ℹ️ How it works
+
+### Desktop
+https://github.com/arthurtlima/reactavancado-client/assets/12513621/1445e281-36f7-40f3-8a37-a153c1971a57
+
+### Mobile
+[reaact mobile.webm](https://github.com/arthurtlima/reactavancado-client/assets/12513621/01ad685f-6816-46c0-b3c9-febb99518ab6)
+
+## 🚀 How to run the project
+
+### Prerequisites
+
+Before you begin, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Additionally, it's good to have an editor for working with the code, such as [VSCode](https://code.visualstudio.com/)
+
+#### Running the web application (Frontend)
+
+```bash
+
+# Clone this repository
+$ git clone https://github.com/arthurtlima/reactavancado-client.git
+
+# Access the project folder in your terminal/cmd.
+$ cd reactavancado-client
+
+# Install the dependencies
 $ yarn install
-```
 
-### 🔨 How to use
-
-Runs next which starts Next.js in development mode
-
-```bash
-$ yarn dev
-```
-
-Runs next build which builds the application for production usage
-
-```bash
-$ yarn build
-```
-
-Runs next start which starts a Next.js production server
-
-```bash
+# Run the application in development mode.
 $ yarn start
+
+# The project will be opened at port 3000 - access http://localhost:3000
+
 ```
 
-Runs next build and export which exports a files in a `out` folder to deploy
+<p>To run this application locally, you need to execute the <a href="https://github.com/arthurtlima/reactavancado-api">reactavancado-api</a> simultaneously. Here's how to do it.</p>
 
-```bash
-$ yarn deploy
-```
+### 💻 Commands
+
+- `dev`: runs your application on `localhost:3000`
+- `build`: creates the production build version
+- `deploy`: to create deploy
+- `format`: to format the code
+
+## 🛠 Technologies
+
+The following tools were used in the project's construction:
+
+-   **[ReactJs](https://pt-br.reactjs.org/)**
+-   **[NextJs](https://nextjs.org/)**
+-   **[TypeScript](https://www.typescriptlang.org/)**
+-   **[Styled Components](https://styled-components.com/)**
+-   **[GraphQl](https://graphql.org/)**
+
+> See the file  [package.json](https://github.com/arthurtlima/reactavancado-client/blob/main/package.json)
+
+---
+
+## 📝 License
+
+This project is under the license [MIT](./LICENSE).
+
+Made by Arthur Teodoro Alves de Lima 👋🏽 [Get in touch!](https://www.linkedin.com/in/arthurtlima/)
