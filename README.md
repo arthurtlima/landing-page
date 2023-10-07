@@ -28,10 +28,11 @@ Table of Contents
 ## ℹ️ How it works
 
 ### Desktop
-https://github.com/arthurtlima/reactavancado-client/assets/12513621/1445e281-36f7-40f3-8a37-a153c1971a57
+https://github.com/arthurtlima/reactavancado-client/assets/12513621/e8cd1b26-bccc-44c7-aeaa-8c2cb3e89429
 
 ### Mobile
-[reaact mobile.webm](https://github.com/arthurtlima/reactavancado-client/assets/12513621/01ad685f-6816-46c0-b3c9-febb99518ab6)
+https://github.com/arthurtlima/reactavancado-client/assets/12513621/1bbbba71-0a44-4495-862e-a2b2e54e3c48
+
 
 ## 🚀 How to run the project
 
