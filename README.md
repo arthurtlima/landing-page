@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  This is one of the applications developed in the <a href="https://reactavancado.com.br/" target="_blank">React Avançado</a> course on <a href="https://www.udemy.com/" target="_blank">Udemy</a> platform.
+  This is one of the applications developed in the <a href="https://reactavancado.com.br/">React Avançado</a> course.
 </p>
 
 <h4 align="center">
