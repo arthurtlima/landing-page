@@ -51,7 +51,7 @@ yarn install
 And run using:
 
 ```
-yarn develop
+yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
